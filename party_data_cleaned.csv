@@ -1,0 +1,21 @@
+event_name,date,day_of_week,event_time,weather_temp,weather_condition,instagram_posts,avg_likes,hashtag_count,buzz_words_in_caption,turnout_level
+Fall Kickoff Social,2024-09-26,Thursday,Evening,62,Rainy,97,105,5,5,High
+Midnight Mixer,2024-11-13,Wednesday,Afternoon,65,Rainy,82,217,19,4,High
+Halloween House Jam,2024-11-12,Tuesday,Night,48,Snowy,89,283,10,3,High
+Outdoor Day Party,2024-11-29,Friday,Evening,69,Clear,53,195,18,4,Medium
+Winter Formal,2024-11-28,Thursday,Afternoon,52,Snowy,88,237,2,7,High
+Spring Bash,2024-09-29,Sunday,Night,67,Rainy,42,263,17,7,Medium
+Darty in the Quad,2024-09-15,Sunday,Afternoon,49,Rainy,41,145,14,6,Medium
+Post-Prelim Chillout,2024-10-02,Wednesday,Afternoon,46,Rainy,66,299,4,5,Medium
+Tri-House Game Night,2024-10-18,Friday,Afternoon,79,Clear,54,297,17,3,Medium
+Back-to-School Bash,2024-09-22,Sunday,Evening,48,Clear,23,266,18,6,Low
+Ithaca Lights,2024-11-17,Sunday,Evening,70,Clear,80,188,18,2,Medium
+South Campus Social,2024-11-17,Sunday,Afternoon,81,Snowy,113,89,18,3,High
+Cherry Blossom Fest,2024-09-17,Tuesday,Night,55,Clear,84,113,13,7,High
+Sunset Vibes,2024-10-06,Sunday,Afternoon,68,Rainy,102,281,8,7,High
+End-of-Year Blowout,2024-10-20,Sunday,Evening,79,Rainy,13,290,6,7,Low
+Neon Night,2024-10-21,Monday,Evening,78,Snowy,108,106,16,9,High
+Pajama Party,2024-10-15,Tuesday,Night,71,Snowy,16,124,10,1,Low
+Ivy Glow,2024-10-18,Friday,Evening,73,Cloudy,45,177,14,4,Medium
+Winter Wonderland,2024-09-03,Tuesday,Evening,52,Cloudy,48,147,2,5,Medium
+Finals Freeze Fest,2024-11-29,Friday,Night,83,Rainy,40,267,16,8,Low
