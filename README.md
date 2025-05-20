@@ -26,19 +26,29 @@ PartyLens is a machine learning-powered dashboard designed to help event organiz
 ## 📂 Project Structure
 
 PartyLens/
-├── app.py                        # Streamlit app code
+├── app.py                        # Streamlit app code  
+
 ├── data/
-│   ├── party_data.csv            # Raw event data
-│   └── party_data_cleaned.csv    # Cleaned dataset
+│   ├── party_data.csv            # Raw event data  
+
+│   └── party_data_cleaned.csv    # Cleaned dataset  
+
 ├── notebooks/
-│   ├── 01_data_prep.ipynb        # Data cleaning and preparation
-│   ├── 02_eda.ipynb              # Exploratory data analysis
-│   └── 03_modeling.ipynb         # Model training and evaluation
-├── Party_Lens_Final_Report.ipynb # Final summary report
-├── .streamlit/                   # Streamlit configuration files
+│   ├── 01_data_prep.ipynb        # Data cleaning and preparation  
+
+│   ├── 02_eda.ipynb              # Exploratory data analysis  
+
+│   └── 03_modeling.ipynb         # Model training and evaluation  
+
+├── Party_Lens_Final_Report.ipynb # Final summary report  
+
+├── .streamlit/                   # Streamlit configuration files  
+
 │   └── config.toml
-├── README.md                     # Project documentation
-└── LICENSE                       # Open-source license file
+├── README.md                     # Project documentation  
+
+└── LICENSE                       # Open-source license file  
+
 
 
 
