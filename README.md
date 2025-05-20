@@ -52,8 +52,8 @@ PartyLens/
 Try predicting turnout for a hypothetical event:
 - 💬 12 Instagram posts  
 - ❤️ 200 total likes  
-- ☀️ 70°F and sunny  
-- 🎶 Type: Music event  
+- ☀️ Sunny  
+- Day of the week: Saturday
 
 → The model returns a high turnout prediction!
 
